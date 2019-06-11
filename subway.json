@@ -1,4 +1,4 @@
-{
+﻿{
 "DESCRIPTION" : {"STATION_NM":"전철역명","STATION_CD":"전철역코드","LINE_NUM":"호선","FR_CODE":"외부코드","STATION_NM_ENG":"전철명명(영문)"},
 "DATA" : [
 {"line_num":"경의선","station_cd":"1263","station_nm_eng":"Sogang Univ.","station_nm":"서강대","fr_code":"K313"},

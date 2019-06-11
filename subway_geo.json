@@ -1,4 +1,4 @@
-{
+﻿{
 "DESCRIPTION" : {"YPOINT":"Y좌표","XPOINT_WGS":"X좌표(WGS)","STATION_NM":"전철역명","STATION_CD":"전철역코드","LINE_NUM":"호선","FR_CODE":"외부코드","CYBER_ST_CODE":"사이버스테이션","XPOINT":"X좌표","YPOINT_WGS":"Y좌표(WGS)"},
 "DATA" : [
 {"line_num":"8","cyber_st_code":"2818","xpoint_wgs":"37.492522","ypoint":"1108579","ypoint_wgs":"127.118234","xpoint":"525992","station_cd":"2818","station_nm":"가락시장","fr_code":"817"},
